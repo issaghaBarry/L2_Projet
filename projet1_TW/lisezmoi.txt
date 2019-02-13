@@ -1,0 +1,17 @@
+Binomes : Barry Issagha / Frémeaux Enzo
+
+
+
+
+URL BARRY :http://webtp.fil.univ-lille1.fr/~barry/projet/view/formulairerecherche.php
+URL FREMEAUX :http://webtp.fil.univ-lille1.fr/~fremeaux/projet/view/formulairerecherche.php
+
+Tout est correct
+Ce qu'on a ajouter :
+
+
+-Lorsqu'on clique sur la liste des entreprises le "tableau" apparait directement.
+-Média query
+-On peut faire une recherche avec le nom la localité et l'activé
+
+

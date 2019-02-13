@@ -1,0 +1,13 @@
+body {
+  font-family : Helvetica ;
+  margin-left : 10mm;
+  margin-right : 10mm ;
+}
+
+fieldset{
+  border : 1px solid black;
+  margin: 60px;
+}
+select{
+  margin-bottom: 3px;
+}
